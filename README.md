@@ -1,9 +1,23 @@
-- 👋 Hi, I’m @JitendraDandekar
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python, django and machine learning
-- 💞️ I’m looking to collaborate on some python project
+# Hi there! 👋
 
-<!---
-JitendraDandekar/JitendraDandekar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Jitendra, a passionate developer with a strong background in Python, Django, and React. I love building efficient, scalable applications and solving complex problems with elegant solutions.
+
+## 🛠 Skills & Technologies
+
+- **Programming Languages:** Python
+- **Frameworks & Libraries:** Django, React
+- **Front-end Development:** HTML, CSS, JavaScript
+- **Database Management:** SQL, MySQL, PostgreSQL
+- **Version Control:** Git, GitHub
+
+## 🌱 Currently Learning
+
+I'm always looking to improve my skills and currently exploring:
+
+- RESTful APIs with Django
+- Advanced React patterns
+- Machine Learning with Python
+
+## 💬 Let's Collaborate!
+
+I'm open to collaborating on interesting projects and ideas.
